@@ -1,0 +1,40 @@
+HTML
+  HyperTextMarkUpLanguage,which is used to develop webpage.
+
+HTML Elements
+  Elements Communicate with browser to render text
+
+Semantic HTML 
+  It is the coding style.It is used to make meaning of the content
+Eg:we can use <b> for bole instead of <strong>
+
+Image map
+  Link many webpages using single Image
+
+CopyRight Symbol
+  Symbol is  &copy;
+
+How to make straight Text
+  Text-Indent it moves right or leftside 
+
+StyleSheet
+  It is used to build consistent,well designed style template
+
+Span Tag
+  Span is used for adding color on text,For adding backgroung on text,Highlight any color text etc
+
+Iframe
+  Iframe is used to display a webpage within a webpage 
+
+Which attribute is used to change the number of index in tag
+  Value
+
+Size of the Text field
+  Default size for a text field is around 13 character
+HyperLink
+  HyperLink is the link which links another file or object
+AltText
+  Alt Text(Alternative Text) is inserted as an attribute in an HTML document.Alt Text will display when image cannot display
+
+
+
