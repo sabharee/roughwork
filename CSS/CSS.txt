@@ -1,0 +1,36 @@
+CSS
+  Cascading Style Sheet.It is used for HTML Elements
+
+Variables of CSS 
+  CSS 1,CSS 2,CSS 2.1,Css 3,CSS 4
+
+Advantages of CSS
+  Easy of presenting different style to different viewers
+  More formating option
+  Greater consistency in design
+
+CSS Framework 
+  It is the Pre Planned Libraries which allow easier and standard rules for webpage styling.
+
+Who Maintain Css Specification
+  World wide web
+
+Css Integrated in 3 ways
+  Inline (HTML)
+  Embedded (Coding)
+  Linked (Link butto)
+
+Alternate Style sheet 
+  It is used to select style in which the page is displayed
+
+RWD
+  Responsive Web Design.It is used to display designed page perfectly in any screen size
+
+Float Property
+  It is used to move images in right or left
+
+Components of CSS
+  (Rules)
+    Selector(HTML Tags)
+    Property(HTML Attributes Border,color)
+    Value(Vales are assaigned to property   red or #f1f1f1)
