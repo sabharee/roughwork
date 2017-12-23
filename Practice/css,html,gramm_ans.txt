@@ -1,0 +1,153 @@
+﻿1.What is CSS?
+
+  CascadingStyleSheet.It is used for styling the webform eg (font,column,row).style can flow one stylesheet to another
+
+2.How can you integrate CSS on a web page?
+
+  integrate CSS on webpage has 3 methods  
+
+3 methods to integrate css
+
+  1.Internal = we can use internal tag in html
+  2.Embedded = we can use stype between style tag
+  3.external= create style sheet page and read that page(eg href tag)
+
+3.What are the advantages and limitations of CSS?
+
+Advantages in Css
+  It has more formatting option.
+  Easy to make different style in page
+  fast(It will save time)
+
+Limitations of CSS
+  CAnnot use logigal operation(if,for)
+  it cannot connect with database
+  css cant request webpage
+
+4.What is Embedded Style Sheet?
+  We can use style desig insde the style tag
+   
+5.What is ruleset?
+  RuleSte is the rules to set value in html body=property=value
+  eg(#id{width:150px})
+ 
+6.What are the advantages of External Style Sheets?
+  We can use External Style sheet to many application.No need to write function again and again
+
+7.How to restore the default property value using CSS?
+  initial keyword is used to make default value in css we use this value in any property
+  eg(width:initial;)
+  
+8.Explain the difference between visibility: hidden and display: none?
+  hidden:none; === 
+  display:one; === displaying of that id or class will hide
+
+9.What does “Cascading” in CSS mean?
+  Cascading is the style flow from one Style sheet to another
+
+10.What are HTML Tags,Elements, Attributes?
+  HTML tags = It is used to create web Page and webform
+  Elements = Element in htm are start ag and end tag.All are consider as nested elements
+  Atrributes :Attributes which are comes in value for eg(width="100px";)
+ 
+11.What are List? How to create Lists?
+  2 types of list are there unorderlist and order list
+  Unorder list : List contains value as random manner.
+  order list :list of values contains as a random mannaer(eg:1,2,3,4)
+
+12.What are HTML forms?
+  Form tag: it is a input tag to collect data from user (eg : registration form)
+
+13.Explain HTML blocks?
+  Html block element is the element which is used to break the line with start and end tag(eg:<p></p>) 
+
+14.How to use JavaScript along with HTML?
+  <script> tag is a client side script we use this tag along with html
+
+15.What is the difference between get and post method?
+  Get is the request we get data from some resource 
+  Post is used to post data(processing data) in resource
+
+16.What is iframes? Why is recommended to avoid iframes?
+  Ifram: it is used to make a frame in webpage in rectangular shape
+
+17.How to redirect using HTML?
+  href tag is used to redirect to html oage for eg(href="../Foldername/Pagename.aspx")
+
+Grammar:
+1. Jenny ____is______ tired.
+
+a)be
+b)is
+c)has
+d)have
+
+2. " ____who_______ is she?" "She's my friend from London"
+
+a)Who
+b)Why
+c)Which
+d)What
+
+3. Today is Wednesday. Yesterday it ___was________ Tuesday.
+
+a)were
+b)is
+c)be
+d)was
+
+4. It's Thursday today. Tomorrow it _will be_____ Friday.
+
+a)be
+b)was
+c)will be
+d)will
+
+5. ___There _are___ lots of animals in the zoo.
+
+a)There
+b)There is
+c)There are
+d)There aren't
+
+6. How many people _are there_ in your family?
+
+a)are there
+b)is there
+c)there are
+d)there
+
+7. "Has Steve got a sister?" "No, he ___hasn't________, but he's got 2 brothers."
+
+a)has
+b)hasn't
+c)haven't
+d)not
+
+8. Where ___does___ Sarah live?
+
+a)are
+b)is
+c)do
+d)does
+
+9. _did mary went__ to London on the train yesterday?
+
+a)Did Mary went
+b)Did Mary go
+c)Mary go
+d)Mary goes
+
+10. Jack _speak__ English, Spanish and a bit of French.
+
+a)speaks
+b)speak
+c)speaking
+d)is speaking
+
+
+
+
+
+
+
